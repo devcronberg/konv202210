@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metoder", "Metoder\Metoder.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FejlHåndtering", "FejlHåndtering\FejlHåndtering.csproj", "{916C12FA-6C7E-4B31-90E1-6145A57CD320}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samlinger", "Samlinger\Samlinger.csproj", "{7AD9CFD7-4C19-43A8-B5A1-DB0F8BEA958F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{916C12FA-6C7E-4B31-90E1-6145A57CD320}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{916C12FA-6C7E-4B31-90E1-6145A57CD320}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{916C12FA-6C7E-4B31-90E1-6145A57CD320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD9CFD7-4C19-43A8-B5A1-DB0F8BEA958F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD9CFD7-4C19-43A8-B5A1-DB0F8BEA958F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD9CFD7-4C19-43A8-B5A1-DB0F8BEA958F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD9CFD7-4C19-43A8-B5A1-DB0F8BEA958F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
