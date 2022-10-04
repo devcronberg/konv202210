@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUI", "TestUI\TestUI.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metoder", "Metoder\Metoder.csproj", "{239057B2-57B4-44D9-B8B2-A840ABE2CD3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FejlHåndtering", "FejlHåndtering\FejlHåndtering.csproj", "{916C12FA-6C7E-4B31-90E1-6145A57CD320}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{239057B2-57B4-44D9-B8B2-A840ABE2CD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{239057B2-57B4-44D9-B8B2-A840ABE2CD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{239057B2-57B4-44D9-B8B2-A840ABE2CD3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916C12FA-6C7E-4B31-90E1-6145A57CD320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916C12FA-6C7E-4B31-90E1-6145A57CD320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916C12FA-6C7E-4B31-90E1-6145A57CD320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916C12FA-6C7E-4B31-90E1-6145A57CD320}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
