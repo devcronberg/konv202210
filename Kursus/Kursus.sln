@@ -5,15 +5,17 @@ VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variabler", "Variabler\Variabler.csproj", "{E5A477C2-FC2E-44D6-881D-6536883B8AA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konstanter", "Konstanter\Konstanter.csproj", "{6529FAFD-8D20-4246-ACDE-1652A5439D25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Konstanter", "Konstanter\Konstanter.csproj", "{6529FAFD-8D20-4246-ACDE-1652A5439D25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUI", "TestUI\TestUI.csproj", "{C72CB69D-CC92-4167-9E0B-C7868516D206}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestUI", "TestUI\TestUI.csproj", "{C72CB69D-CC92-4167-9E0B-C7868516D206}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metoder", "Metoder\Metoder.csproj", "{239057B2-57B4-44D9-B8B2-A840ABE2CD3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metoder", "Metoder\Metoder.csproj", "{239057B2-57B4-44D9-B8B2-A840ABE2CD3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FejlHåndtering", "FejlHåndtering\FejlHåndtering.csproj", "{916C12FA-6C7E-4B31-90E1-6145A57CD320}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FejlHåndtering", "FejlHåndtering\FejlHåndtering.csproj", "{916C12FA-6C7E-4B31-90E1-6145A57CD320}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samlinger", "Samlinger\Samlinger.csproj", "{7AD9CFD7-4C19-43A8-B5A1-DB0F8BEA958F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Samlinger", "Samlinger\Samlinger.csproj", "{7AD9CFD7-4C19-43A8-B5A1-DB0F8BEA958F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleKlasse", "SimpleKlasse\SimpleKlasse.csproj", "{31D9F4E7-CA7A-43CA-9074-B7DDB54EF656}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7AD9CFD7-4C19-43A8-B5A1-DB0F8BEA958F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AD9CFD7-4C19-43A8-B5A1-DB0F8BEA958F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AD9CFD7-4C19-43A8-B5A1-DB0F8BEA958F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D9F4E7-CA7A-43CA-9074-B7DDB54EF656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D9F4E7-CA7A-43CA-9074-B7DDB54EF656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D9F4E7-CA7A-43CA-9074-B7DDB54EF656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D9F4E7-CA7A-43CA-9074-B7DDB54EF656}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
