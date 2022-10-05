@@ -69,4 +69,29 @@
         public int AntalBen { get;  set; } = 4;
         public string Navn { get; set; }
     }
+
+    class Faktura
+    {
+        // felt (offentlig)
+        // public int Nummer;
+
+        //public int Nummer { get; set; }
+        private int _nummer;
+
+        public int Nummer
+        {
+            get { 
+                return _nummer; 
+            }
+            set { 
+                // log...
+                // 
+                _nummer = value; 
+            
+            }
+        }
+
+        public string Kunde { get; set; }
+
+    }
 }

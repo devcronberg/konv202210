@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WinForm.Hund" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAgAACAIAAACAAAAAgAAAAAA=</HashCode>
+      <FileName>Hund.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinForm.Fugl" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAAAAgAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Hund.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Button">
+    <Position X="2.5" Y="81.5" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.ButtonBase">
+    <Position X="3" Y="70.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.ButtonBase.ButtonBaseAccessibleObject" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Control">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Control.ControlAccessibleObject" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="System.Windows.Forms.Control.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

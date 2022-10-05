@@ -35,7 +35,7 @@ namespace WinForm
 
 	}
 
-	class Fugl {
+	class Fugl  {
 
 		public string Navn { get; set; }
 		//public int AntalVinger { get; set; }
